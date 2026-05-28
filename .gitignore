@@ -1,0 +1,5 @@
+Healthcare_DLT_Pipeline_Project/
+venv/
+.env
+*.pdf
+*.zip
